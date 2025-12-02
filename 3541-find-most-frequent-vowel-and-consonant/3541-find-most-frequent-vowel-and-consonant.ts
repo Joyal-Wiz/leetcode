@@ -1,0 +1,14 @@
+function maxFreqSum(s: string): number {
+    const freq: Record<string, number> = {};
+    let con = 0, vow = 0;
+    for (let c of s) {
+        freq[c] = (freq[c] || 0) + 1;
+    }
+    for (let ch in freq) {
+        if ("aeiou".includes(ch))
+            vow = Math.max(vow, freq[ch]);
+        else
+            con = Math.max(con, freq[ch]);
+    }
+    return con + vow;
+};
