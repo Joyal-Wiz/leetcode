@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
+| [3110-score-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
