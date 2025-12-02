@@ -1,6 +1,6 @@
 function countTrapezoids(points: number[][]): number {
-     const MOD = BigInt(1_000_000_007);
-    const mp = new Map();  
+    const MOD = BigInt(1_000_000_007);
+    const mp = new Map();   
     let sumPairs = BigInt(0);
 
     for (let p of points) {
@@ -14,10 +14,11 @@ function countTrapezoids(points: number[][]): number {
 
     for (let y of mp.keys()) {
         let f = mp.get(y);
-        let cur = BigInt(f * (f - 1) / 2); 
+        let cur = BigInt(f * (f - 1) / 2);
         sumPairs -= cur;
         res += sumPairs * cur;
     }
 
     return Number(res % MOD);
+
 };
