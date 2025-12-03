@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joyal-Wiz/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
@@ -94,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
+## Sliding Window
+|  |
+| ------- |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 <!---LeetCode Topics End-->
