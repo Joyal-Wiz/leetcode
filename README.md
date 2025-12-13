@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Joyal-Wiz/leetcode/tree/master/3531-count-covered-buildings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Joyal-Wiz/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Joyal-Wiz/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joyal-Wiz/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3433-count-mentions-per-user](https://github.com/Joyal-Wiz/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Joyal-Wiz/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 ## Geometry
 |  |
 | ------- |
