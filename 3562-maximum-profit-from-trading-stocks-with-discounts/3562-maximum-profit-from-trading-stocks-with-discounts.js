@@ -7,7 +7,7 @@
  * @return {number}
  */
 var maxProfit = function(n, present, future, hierarchy, budget) {
-    const dp = Array.from({ length: n + 1 }, () => Array.from({ length: 2 }, () => Array(budget + 1).fill(0)));
+        const dp = Array.from({ length: n + 1 }, () => Array.from({ length: 2 }, () => Array(budget + 1).fill(0)));
         const children = Array.from({ length: n + 1 }, () => []);
 
         const deg = Array(n + 1).fill(0);
