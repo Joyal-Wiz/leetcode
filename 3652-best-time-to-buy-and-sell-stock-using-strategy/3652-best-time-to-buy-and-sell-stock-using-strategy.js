@@ -4,23 +4,43 @@
  * @param {number} k
  * @return {number}
  */
-var maxProfit = function(prices, strategy, k) {
+ var maxProfit = function (prices, strategy, k) {
     const n = prices.length;
-    const half = Math.floor(k / 2);
-    
-    const prefixSum = new Array(n + 1).fill(0);
+    const half = k >> 1;
+
+    // Original total profit
+    let total = 0;
     for (let i = 0; i < n; i++) {
-        prefixSum[i + 1] = prefixSum[i] + strategy[i] * prices[i];
+        total += strategy[i] * prices[i];
     }
-    let windowSum = 0;
-    for (let i = half; i < k; i++) {
-        windowSum += prices[i];
+
+    let maxProfit = total;
+
+    // Sliding window sums
+    let oldWindow = 0;   // original strategy contribution
+    let newWindow = 0;   // modified contribution (last half sells)
+
+    // Initial window
+    for (let i = 0; i < k; i++) {
+        oldWindow += strategy[i] * prices[i];
+        if (i >= half) newWindow += prices[i];
     }
-    let maxProfit = Math.max(prefixSum[n], windowSum + prefixSum[n] - prefixSum[k]);
-    for (let start = 1; start + k <= n; start++) {
-        windowSum += prices[start + k - 1] - prices[start + half - 1];
-        maxProfit = Math.max(maxProfit, windowSum + prefixSum[n] - prefixSum[start + k] + prefixSum[start]);
+
+    maxProfit = Math.max(maxProfit, total - oldWindow + newWindow);
+
+    // Slide window
+    for (let i = k; i < n; i++) {
+        // remove left
+        oldWindow -= strategy[i - k] * prices[i - k];
+        if (i - k + half >= i - k)
+            newWindow -= prices[i - k + half];
+
+        // add right
+        oldWindow += strategy[i] * prices[i];
+        newWindow += prices[i];
+
+        maxProfit = Math.max(maxProfit, total - oldWindow + newWindow);
     }
-    
+
     return maxProfit;
 };
