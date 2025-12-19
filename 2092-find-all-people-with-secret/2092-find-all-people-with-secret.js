@@ -5,44 +5,49 @@
  * @return {number[]}
  */
 var findAllPeople = function(n, meetings, firstPerson) {
- meetings.sort((a, b) => a[2] - b[2]);
+meetings.sort((a, b) => a[2] - b[2]);
 
-const parent = Array.from({ length: n }, (_, i) => i);
-const know = Array(n).fill(false);
+const know = new Array(n).fill(false);
 know[0] = know[firstPerson] = true;
 
-const find = x => parent[x] === x ? x : (parent[x] = find(parent[x]));
-const unite = (a, b) => {
-    const pa = find(a), pb = find(b);
-    if (pa !== pb) parent[pb] = pa;
-};
+let i = 0;
 
-for (let i = 0; i < meetings.length; ) {
+while (i < meetings.length) {
     const time = meetings[i][2];
-    const people = new Set();
+
+    const graph = new Map();
+    const queue = [];
 
     let j = i;
     while (j < meetings.length && meetings[j][2] === time) {
         const [x, y] = meetings[j];
-        unite(x, y);
-        people.add(x);
-        people.add(y);
+
+        if (!graph.has(x)) graph.set(x, []);
+        if (!graph.has(y)) graph.set(y, []);
+
+        graph.get(x).push(y);
+        graph.get(y).push(x);
+
         j++;
     }
-    const secretRoots = new Set();
-    for (const p of people) {
-        if (know[p]) secretRoots.add(find(p));
+    for (const person of graph.keys()) {
+        if (know[person]) queue.push(person);
     }
 
-    for (const p of people) {
-        if (secretRoots.has(find(p))) know[p] = true;
+    for (let k = 0; k < queue.length; k++) {
+        const u = queue[k];
+        for (const v of graph.get(u)) {
+            if (!know[v]) {
+                know[v] = true;
+                queue.push(v);
+            }
+        }
     }
-
-    for (const p of people) parent[p] = p;
 
     i = j;
 }
 
-return know.flatMap((v, i) => v ? i : []);
+return know.map((v, i) => v ? i : -1).filter(v => v !== -1);
+
 
 };
