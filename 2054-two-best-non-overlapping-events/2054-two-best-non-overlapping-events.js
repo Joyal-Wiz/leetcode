@@ -4,41 +4,40 @@
  */
 var maxTwoEvents = function(events) {
     const n = events.length;
-    
     events.sort((a, b) => a[0] - b[0]);
-    
 
-    let suffixMax = new Array(n);
-    suffixMax[n - 1] = events[n - 1][2]; 
+    const start = new Array(n);
+    const end = new Array(n);
+    const val = new Array(n);
 
-    for (let i = n - 2; i >= 0; i--) {
-        suffixMax[i] = Math.max(events[i][2], suffixMax[i + 1]);
-    }
-    
-
-    let maxSum = 0;
-    
     for (let i = 0; i < n; i++) {
-        let left = i + 1, right = n - 1;
-        let nextEventIndex = -1;
-
-        while (left <= right) {
-            let mid = Math.floor((left + right) / 2);
-            if (events[mid][0] > events[i][1]) {
-                nextEventIndex = mid;
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-        
-        if (nextEventIndex !== -1) {
-            maxSum = Math.max(maxSum, events[i][2] + suffixMax[nextEventIndex]);
-        }
-        
-
-        maxSum = Math.max(maxSum, events[i][2]);
+        start[i] = events[i][0];
+        end[i] = events[i][1];
+        val[i] = events[i][2];
     }
-    
-    return maxSum;
+    const suffixMax = new Array(n);
+    suffixMax[n - 1] = val[n - 1];
+    for (let i = n - 2; i >= 0; i--) {
+        suffixMax[i] = val[i] > suffixMax[i + 1] ? val[i] : suffixMax[i + 1];
+    }
+
+    let ans = 0;
+
+    for (let i = 0; i < n; i++) {
+        let l = i + 1, r = n;
+        while (l < r) {
+            const m = (l + r) >>> 1;
+            if (start[m] > end[i]) r = m;
+            else l = m + 1;
+        }
+
+        if (l < n) {
+            const sum = val[i] + suffixMax[l];
+            if (sum > ans) ans = sum;
+        }
+
+        if (val[i] > ans) ans = val[i];
+    }
+
+    return ans;
 };
