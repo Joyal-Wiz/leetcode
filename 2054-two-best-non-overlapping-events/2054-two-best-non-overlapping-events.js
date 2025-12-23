@@ -3,38 +3,42 @@
  * @return {number}
  */
 var maxTwoEvents = function(events) {
- events.sort((a, b) => a[1] - b[1]);
-
     const n = events.length;
-    const endT = new Array(n);
-    const best = new Array(n);
+    
+    events.sort((a, b) => a[0] - b[0]);
+    
 
-    for (let i = 0; i < n; i++) {
-        endT[i] = events[i][1];
-        best[i] = events[i][2];
-        if (i > 0) best[i] = Math.max(best[i], best[i - 1]);
+    let suffixMax = new Array(n);
+    suffixMax[n - 1] = events[n - 1][2]; 
+
+    for (let i = n - 2; i >= 0; i--) {
+        suffixMax[i] = Math.max(events[i][2], suffixMax[i + 1]);
     }
+    
 
-    let ans = 0;
-
+    let maxSum = 0;
+    
     for (let i = 0; i < n; i++) {
-        const st = events[i][0];
-        const val = events[i][2];
+        let left = i + 1, right = n - 1;
+        let nextEventIndex = -1;
 
-        let l = 0, r = n - 1, idx = -1;
-        while (l <= r) {
-            const mid = Math.floor((l + r) / 2);
-            if (endT[mid] < st) {
-                idx = mid;
-                l = mid + 1;
+        while (left <= right) {
+            let mid = Math.floor((left + right) / 2);
+            if (events[mid][0] > events[i][1]) {
+                nextEventIndex = mid;
+                right = mid - 1;
             } else {
-                r = mid - 1;
+                left = mid + 1;
             }
         }
+        
+        if (nextEventIndex !== -1) {
+            maxSum = Math.max(maxSum, events[i][2] + suffixMax[nextEventIndex]);
+        }
+        
 
-        if (idx !== -1) ans = Math.max(ans, val + best[idx]);
-        ans = Math.max(ans, val);
+        maxSum = Math.max(maxSum, events[i][2]);
     }
-
-    return ans;
+    
+    return maxSum;
 };
