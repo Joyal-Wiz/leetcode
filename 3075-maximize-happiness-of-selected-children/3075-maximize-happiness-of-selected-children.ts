@@ -1,12 +1,13 @@
 function maximumHappinessSum(happiness: number[], k: number): number {
-        happiness.sort((a, b) => a - b);
+     happiness.sort((a, b) => a - b);
+
     let res = 0;
-    let count = 0;
-    for (let i = happiness.length - 1; i >= happiness.length - k; i--) {
-        if (happiness[i] - count > 0) {
-            res += (happiness[i] - count);
-        }
-        count++;
+    let n = happiness.length;
+
+    for (let i = n - 1, picked = 0; picked < k; i--, picked++) {
+        const val = happiness[i] - picked;
+        if (val > 0) res += val;
     }
+
     return res;
 };
