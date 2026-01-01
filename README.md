@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joyal-Wiz/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Joyal-Wiz/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Joyal-Wiz/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joyal-Wiz/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joyal-Wiz/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Joyal-Wiz/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joyal-Wiz/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
