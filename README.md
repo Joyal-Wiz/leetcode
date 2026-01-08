@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Joyal-Wiz/leetcode/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Joyal-Wiz/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joyal-Wiz/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joyal-Wiz/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joyal-Wiz/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Joyal-Wiz/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Joyal-Wiz/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Joyal-Wiz/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joyal-Wiz/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Joyal-Wiz/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
