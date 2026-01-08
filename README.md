@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Joyal-Wiz/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Joyal-Wiz/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
