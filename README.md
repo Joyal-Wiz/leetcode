@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Joyal-Wiz/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Joyal-Wiz/leetcode/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Joyal-Wiz/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
+| [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Joyal-Wiz/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Joyal-Wiz/leetcode/tree/master/2000-reverse-prefix-of-word) |
