@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3668-restore-finishing-order](https://github.com/Joyal-Wiz/leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Joyal-Wiz/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3668-restore-finishing-order](https://github.com/Joyal-Wiz/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
