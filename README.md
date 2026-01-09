@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Joyal-Wiz/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1861-rotating-the-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1861-rotating-the-box) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/Joyal-Wiz/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Joyal-Wiz/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Joyal-Wiz/leetcode/tree/master/2000-reverse-prefix-of-word) |
