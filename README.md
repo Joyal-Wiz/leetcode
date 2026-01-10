@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Joyal-Wiz/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Joyal-Wiz/leetcode/tree/master/2469-convert-the-temperature) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Joyal-Wiz/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Joyal-Wiz/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Joyal-Wiz/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
