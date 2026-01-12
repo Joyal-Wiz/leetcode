@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Joyal-Wiz/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Joyal-Wiz/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Joyal-Wiz/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
