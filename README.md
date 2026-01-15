@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Joyal-Wiz/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
+| [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -444,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
