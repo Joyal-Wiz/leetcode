@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Joyal-Wiz/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Joyal-Wiz/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/Joyal-Wiz/leetcode/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Joyal-Wiz/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Joyal-Wiz/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
