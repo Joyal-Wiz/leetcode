@@ -5,38 +5,29 @@
  * @param {number[]} vFences
  * @return {number}
  */
-var maximizeSquareArea = function (m, n, hFences, vFences) {
-    const MOD = 1000000007;
+var maximizeSquareArea = function(m, n, hFences, vFences) {
+    const MOD = 1000000007n;
+    hFences.push(1, m);
+    vFences.push(1, n);
+    hFences.sort((a, b) => a - b);
+    vFences.sort((a, b) => a - b);
 
-    const getEdges = (fences, border) => {
-        const set = new Set();
-        const list = [...fences];
-        list.push(1);
-        list.push(border);
-        list.sort((a, b) => a - b);
-
-        for (let i = 0; i < list.length; i++) {
-            for (let j = i + 1; j < list.length; j++) {
-                set.add(list[j] - list[i]);
-            }
-        }
-
-        return set;
-    };
-
-    const hEdges = getEdges(hFences, m);
-    const vEdges = getEdges(vFences, n);
-
-    let res = 0;
-    for (const e of hEdges) {
-        if (vEdges.has(e)) {
-            res = Math.max(res, e);
+    const hs = new Set();
+    for (let i = 0; i < hFences.length; i++) {
+        for (let j = i + 1; j < hFences.length; j++) {
+            hs.add(hFences[j] - hFences[i]);
         }
     }
 
-    if (res === 0) {
-        return -1;
+    let s = 0;
+    for (let i = 0; i < vFences.length; i++) {
+        for (let j = i + 1; j < vFences.length; j++) {
+            const d = vFences[j] - vFences[i];
+            if (d > s && hs.has(d)) s = d;
+        }
     }
 
-    return Number((BigInt(res) * BigInt(res)) % BigInt(MOD));
+    if (s === 0) return -1;
+    const x = BigInt(s);
+    return Number((x * x) % MOD);
 };
