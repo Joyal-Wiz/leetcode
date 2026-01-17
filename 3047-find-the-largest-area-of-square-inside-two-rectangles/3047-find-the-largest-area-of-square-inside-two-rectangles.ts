@@ -1,0 +1,30 @@
+function largestSquareArea(bottomLeft: number[][], topRight: number[][]): number {
+        let n = bottomLeft.length;
+    let bestSide = 0;
+
+    for (let a = 0; a < n; a++) {
+        let [leftA, bottomA] = bottomLeft[a];
+        let [rightA, topA] = topRight[a];
+
+        if (rightA - leftA <= bestSide || topA - bottomA <= bestSide)
+            continue;
+
+        for (let b = a + 1; b < n; b++) {
+            let [leftB, bottomB] = bottomLeft[b];
+            let [rightB, topB] = topRight[b];
+
+            let overlapLeft = Math.max(leftA, leftB);
+            let overlapBottom = Math.max(bottomA, bottomB);
+            let overlapRight = Math.min(rightA, rightB);
+            let overlapTop = Math.min(topA, topB);
+
+            if (overlapLeft < overlapRight && overlapBottom < overlapTop) {
+                let width = overlapRight - overlapLeft;
+                let height = overlapTop - overlapBottom;
+                let side = Math.min(width, height);
+                bestSide = Math.max(bestSide, side);
+            }
+        }
+    }
+    return bestSide * bestSide;
+};
