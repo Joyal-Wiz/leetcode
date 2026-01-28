@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Joyal-Wiz/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3668-restore-finishing-order](https://github.com/Joyal-Wiz/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joyal-Wiz/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Joyal-Wiz/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
