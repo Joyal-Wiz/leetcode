@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Joyal-Wiz/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Joyal-Wiz/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
