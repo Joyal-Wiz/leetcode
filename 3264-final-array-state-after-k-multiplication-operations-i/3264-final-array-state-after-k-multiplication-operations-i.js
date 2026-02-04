@@ -4,19 +4,10 @@
  * @param {number} multiplier
  * @return {number[]}
  */
-var getFinalState = function (nums, k, multiplier) {
-  for (let j = 0; j < k; j++) {
-    let small = nums[0];
-    let index = 0;
-    for (let i = 0; i < nums.length; i++) {
-      if (nums[i] < small) {
-        small = nums[i];
-        index = i;
-      }
-    }
-
-    nums[index] = small * multiplier;
-  }
-
-  return nums;
+var getFinalState = function(nums, k, multiplier) {
+for(let i=0;i<k;i++){
+    let index=nums.indexOf(Math.min(...nums));
+    nums[index]*=multiplier;
+}
+    return nums 
 };
