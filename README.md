@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Joyal-Wiz/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3668-restore-finishing-order](https://github.com/Joyal-Wiz/leetcode/tree/master/3668-restore-finishing-order) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joyal-Wiz/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Joyal-Wiz/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
