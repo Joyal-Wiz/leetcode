@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Joyal-Wiz/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joyal-Wiz/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Joyal-Wiz/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Joyal-Wiz/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Joyal-Wiz/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -593,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Joyal-Wiz/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
