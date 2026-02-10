@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Joyal-Wiz/leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
