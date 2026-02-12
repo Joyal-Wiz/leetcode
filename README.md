@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/Joyal-Wiz/leetcode/tree/master/3668-restore-finishing-order) |
+| [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Joyal-Wiz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Joyal-Wiz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Joyal-Wiz/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Joyal-Wiz/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
