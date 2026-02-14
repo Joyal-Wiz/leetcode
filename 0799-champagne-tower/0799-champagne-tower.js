@@ -5,19 +5,18 @@
  * @return {number}
  */
 var champagneTower = function(poured, query_row, query_glass) {
-    
-    const tower = new Array(query_row + 1).fill(0).map(() => new Array(query_row + 1).fill(0));
-    tower[0][0] = poured;
-
-    for (let row = 0; row < query_row; row++) {
-        for (let glass = 0; glass <= row; glass++) {
-            const excess = (tower[row][glass] - 1) / 2.0;
-            if (excess > 0) {
-                tower[row + 1][glass] += excess;
-                tower[row + 1][glass + 1] += excess;
-            }
-        }
+   let dp = new Array(query_row + 1).fill(0);
+     dp[0] = poured;
+    for(let row =1; row <= query_row;row++){
+      for(let i = row - 1; i >=0;i--){
+          let extra = dp[i] - 1;
+          if(extra > 0){
+            dp[i] = 0.5*extra;
+            dp[i+1] += 0.5*extra; 
+          }else{
+            dp[i] = 0;
+          }  
+      } 
     }
-
-    return Math.min(1, tower[query_row][query_glass]);
+    return Math.min(1,dp[query_glass]);
 };
