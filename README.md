@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Joyal-Wiz/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Joyal-Wiz/leetcode/tree/master/0392-is-subsequence) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0682-baseball-game) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
