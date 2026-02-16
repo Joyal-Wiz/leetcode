@@ -3,10 +3,16 @@
  * @return {number}
  */
 var reverseBits = function(n) {
-    let rev = 0;
-    for(let i = 0; i < 32; i++) {
-        rev = (rev << 1) | ((n >> i) & 1);
+    let revBit = [];
+for(let i = 0;i<32;i++){
+    let rem = n % 2;
+    n = Math.floor(n / 2);
+    revBit.push(rem);
+}
+let multi = 0;
+    for(let num of revBit){
+        multi = multi*2+num;
     }
-    return rev;
+    return multi;
 
 };
