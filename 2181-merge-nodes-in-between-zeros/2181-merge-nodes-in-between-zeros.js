@@ -10,21 +10,26 @@
  * @return {ListNode}
  */
 var mergeNodes = function(head) {
-let sum=0;
-let newLL = new ListNode(0);
-let tail = newLL; 
-let curr=head;
-while(curr!==null){
-    if(curr.val!==0){
-        sum=sum+curr.val;
-    }else{
-         if (sum !== 0) {
-                tail.next = new ListNode(sum);
-                tail = tail.next;
-                sum = 0; 
+    let node = head;
+    let prev = head;
+    let sum = 0;
+
+    node = node.next;
+
+    while (node) {
+        if (node.val === 0) {
+            prev.val = sum;
+            sum = 0;
+            if (node.next) {
+                prev = prev.next;
+            } else {
+                prev.next = null;
             }
+        } else {
+            sum += node.val;
+        }
+        node = node.next;
     }
-curr=curr.next
-}
-return newLL.next
+
+    return head;
 };
