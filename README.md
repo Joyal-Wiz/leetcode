@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Joyal-Wiz/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Joyal-Wiz/leetcode/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Joyal-Wiz/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3719-longest-balanced-subarray-i) |
