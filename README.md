@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Joyal-Wiz/leetcode/tree/master/0392-is-subsequence) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
