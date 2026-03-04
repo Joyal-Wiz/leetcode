@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Joyal-Wiz/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Joyal-Wiz/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Joyal-Wiz/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3110-score-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
