@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Joyal-Wiz/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1556-thousand-separator](https://github.com/Joyal-Wiz/leetcode/tree/master/1556-thousand-separator) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Joyal-Wiz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
