@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Joyal-Wiz/leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Joyal-Wiz/leetcode/tree/master/2652-sum-multiples) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Joyal-Wiz/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2739-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2739-total-distance-traveled) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Joyal-Wiz/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2739-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/Joyal-Wiz/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3379-transformed-array) |
