@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Joyal-Wiz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Joyal-Wiz/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Joyal-Wiz/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Joyal-Wiz/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Joyal-Wiz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
