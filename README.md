@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Joyal-Wiz/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Joyal-Wiz/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Joyal-Wiz/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/Joyal-Wiz/leetcode/tree/master/1556-thousand-separator) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Joyal-Wiz/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Joyal-Wiz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Joyal-Wiz/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Joyal-Wiz/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
