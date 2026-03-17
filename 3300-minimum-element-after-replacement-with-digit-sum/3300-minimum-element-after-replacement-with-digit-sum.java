@@ -1,18 +1,22 @@
 class Solution {
-    public int minElement(int[] nums) {
-        int k = Integer.MAX_VALUE;
-        for (int i = 0; i < nums.length; i++){
-            int sum = digitSum(nums[i]);
-            if (k > sum) k = sum;
+    public int calsum(int num) {
+        String str = String.valueOf(num);
+        int res = 0;
+        for (var it : str.toCharArray()) {
+            res += it - '0';
         }
-        return k;
+        return res;
     }
-    public static int digitSum(int n){
-        int s = 0;
-        while (n > 0){
-            s = s + (n % 10);
-            n /= 10;
+
+    public int minElement(int[] nums) {
+        int res = Integer.MAX_VALUE;
+
+        for (int it : nums) {
+            int x = calsum(it);
+            if (x < res) {
+                res = x;
+            }
         }
-        return s;
+        return res;
     }
 }
