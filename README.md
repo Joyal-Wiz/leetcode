@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Joyal-Wiz/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Joyal-Wiz/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Joyal-Wiz/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Joyal-Wiz/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Joyal-Wiz/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Joyal-Wiz/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
