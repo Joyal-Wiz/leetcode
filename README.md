@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Joyal-Wiz/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2739-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2739-total-distance-traveled) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Joyal-Wiz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Joyal-Wiz/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Joyal-Wiz/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Joyal-Wiz/leetcode/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Joyal-Wiz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Joyal-Wiz/leetcode/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Joyal-Wiz/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Joyal-Wiz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Joyal-Wiz/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2562-find-the-array-concatenation-value](https://github.com/Joyal-Wiz/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2739-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2739-total-distance-traveled) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Joyal-Wiz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Joyal-Wiz/leetcode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/Joyal-Wiz/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
