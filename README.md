@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Joyal-Wiz/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Joyal-Wiz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Joyal-Wiz/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joyal-Wiz/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Joyal-Wiz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Joyal-Wiz/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
