@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Joyal-Wiz/leetcode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Joyal-Wiz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1399-count-largest-group](https://github.com/Joyal-Wiz/leetcode/tree/master/1399-count-largest-group) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Joyal-Wiz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0905-sort-array-by-parity](https://github.com/Joyal-Wiz/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Joyal-Wiz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Joyal-Wiz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Joyal-Wiz/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joyal-Wiz/leetcode/tree/master/1688-count-of-matches-in-tournament) |
