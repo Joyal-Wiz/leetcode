@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Joyal-Wiz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Joyal-Wiz/leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
