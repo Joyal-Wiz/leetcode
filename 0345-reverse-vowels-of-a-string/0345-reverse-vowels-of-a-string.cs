@@ -1,30 +1,29 @@
 public class Solution {
-    public string ReverseVowels(string s)
-    {
-        var vowels = new[] { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
-        var i = 0;
-        var j = s.Length - 1;
-        var result = new StringBuilder(s);
-        
-        while (i < j)
-        {
-            if (!vowels.Contains(s[i]))
-            {
-                i++;
+    public string ReverseVowels(string s) {
+        char[] arr = s.ToCharArray();
+        int left= 0;
+        int right= arr.Length-1;
+        while(left<right){
+            if(!IsVowel(arr[left])){
+                left++;
+                continue;
             }
-            else if (!vowels.Contains(s[j]))
-            {
-                j--;
+            if(!IsVowel(arr[right])){
+                right--;
+                continue;
             }
-            else
-            {
-                result.Replace(s[i], s[j], i, 1);
-                result.Replace(s[j], s[i], j, 1);
-                i++;
-                j--;
-            }
+
+            char temp= arr[left];
+            arr[left]=arr[right];
+            arr[right]=temp;
+
+            left++;
+            right--;
         }
-        
-        return result.ToString();
+        return new string(arr);
+    }
+
+    private bool IsVowel(char c){
+        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U';
     }
 }
