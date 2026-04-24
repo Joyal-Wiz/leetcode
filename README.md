@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Joyal-Wiz/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/Joyal-Wiz/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Joyal-Wiz/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/Joyal-Wiz/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Joyal-Wiz/leetcode/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Joyal-Wiz/leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Joyal-Wiz/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2833-furthest-point-from-origin](https://github.com/Joyal-Wiz/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/Joyal-Wiz/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/3583-count-special-triplets) |
