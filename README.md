@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Joyal-Wiz/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Joyal-Wiz/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2460-apply-operations-to-an-array) |
