@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Joyal-Wiz/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Joyal-Wiz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Joyal-Wiz/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Joyal-Wiz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Joyal-Wiz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Joyal-Wiz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2069-walking-robot-simulation-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Union-Find
 |  |
