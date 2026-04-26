@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joyal-Wiz/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Joyal-Wiz/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Joyal-Wiz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Joyal-Wiz/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Joyal-Wiz/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Joyal-Wiz/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Joyal-Wiz/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Joyal-Wiz/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joyal-Wiz/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Joyal-Wiz/leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Joyal-Wiz/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Joyal-Wiz/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
