@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Joyal-Wiz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Joyal-Wiz/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Joyal-Wiz/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Joyal-Wiz/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
 | ------- |
