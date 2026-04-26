@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Joyal-Wiz/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3640-trionic-array-ii) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Joyal-Wiz/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Joyal-Wiz/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Joyal-Wiz/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joyal-Wiz/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Joyal-Wiz/leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Joyal-Wiz/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Joyal-Wiz/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Geometry
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
