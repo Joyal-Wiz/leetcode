@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Joyal-Wiz/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Joyal-Wiz/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Joyal-Wiz/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Joyal-Wiz/leetcode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
