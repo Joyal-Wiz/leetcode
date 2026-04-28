@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Joyal-Wiz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Joyal-Wiz/leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Joyal-Wiz/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Joyal-Wiz/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Joyal-Wiz/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Joyal-Wiz/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Joyal-Wiz/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/Joyal-Wiz/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Joyal-Wiz/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
