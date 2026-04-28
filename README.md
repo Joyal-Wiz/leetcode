@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/Joyal-Wiz/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Joyal-Wiz/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Joyal-Wiz/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Joyal-Wiz/leetcode/tree/master/0942-di-string-match) |
