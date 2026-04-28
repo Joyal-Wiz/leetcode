@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Joyal-Wiz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
+| [0598-range-addition-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0598-range-addition-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Joyal-Wiz/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Joyal-Wiz/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Joyal-Wiz/leetcode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0598-range-addition-ii) |
 | [0682-baseball-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
