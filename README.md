@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joyal-Wiz/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Joyal-Wiz/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Joyal-Wiz/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Joyal-Wiz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Joyal-Wiz/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joyal-Wiz/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Joyal-Wiz/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Joyal-Wiz/leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Joyal-Wiz/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Joyal-Wiz/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Joyal-Wiz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Joyal-Wiz/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/Joyal-Wiz/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Joyal-Wiz/leetcode/tree/master/2092-find-all-people-with-secret) |
