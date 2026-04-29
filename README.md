@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Joyal-Wiz/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Joyal-Wiz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Joyal-Wiz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Joyal-Wiz/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Joyal-Wiz/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Joyal-Wiz/leetcode/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
