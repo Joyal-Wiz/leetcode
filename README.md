@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Joyal-Wiz/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Joyal-Wiz/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Joyal-Wiz/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Joyal-Wiz/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Joyal-Wiz/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Joyal-Wiz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Joyal-Wiz/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Joyal-Wiz/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Joyal-Wiz/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Joyal-Wiz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Joyal-Wiz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Joyal-Wiz/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Joyal-Wiz/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Joyal-Wiz/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Joyal-Wiz/leetcode/tree/master/2615-sum-of-distances) |
 | [3028-ant-on-the-boundary](https://github.com/Joyal-Wiz/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Joyal-Wiz/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Joyal-Wiz/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
