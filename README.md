@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joyal-Wiz/leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0263-ugly-number) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Joyal-Wiz/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
