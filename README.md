@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Joyal-Wiz/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Joyal-Wiz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Joyal-Wiz/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
