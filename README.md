@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Joyal-Wiz/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Joyal-Wiz/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0812-largest-triangle-area](https://github.com/Joyal-Wiz/leetcode/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Joyal-Wiz/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Joyal-Wiz/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Joyal-Wiz/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0812-largest-triangle-area](https://github.com/Joyal-Wiz/leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/Joyal-Wiz/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Joyal-Wiz/leetcode/tree/master/0812-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Joyal-Wiz/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Joyal-Wiz/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Joyal-Wiz/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
