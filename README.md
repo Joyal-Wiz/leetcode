@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Joyal-Wiz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Joyal-Wiz/leetcode/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Joyal-Wiz/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Joyal-Wiz/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Joyal-Wiz/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0504-base-7](https://github.com/Joyal-Wiz/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Joyal-Wiz/leetcode/tree/master/0657-robot-return-to-origin) |
