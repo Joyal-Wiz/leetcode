@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Joyal-Wiz/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Joyal-Wiz/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2325-decode-the-message](https://github.com/Joyal-Wiz/leetcode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Joyal-Wiz/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Joyal-Wiz/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2325-decode-the-message](https://github.com/Joyal-Wiz/leetcode/tree/master/2325-decode-the-message) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Joyal-Wiz/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Joyal-Wiz/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
