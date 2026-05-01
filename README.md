@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Joyal-Wiz/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Joyal-Wiz/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Joyal-Wiz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Joyal-Wiz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Joyal-Wiz/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Joyal-Wiz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Joyal-Wiz/leetcode/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Joyal-Wiz/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Joyal-Wiz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Joyal-Wiz/leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -948,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Joyal-Wiz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Joyal-Wiz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Joyal-Wiz/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
