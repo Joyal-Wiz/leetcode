@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Joyal-Wiz/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Joyal-Wiz/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Joyal-Wiz/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Joyal-Wiz/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Joyal-Wiz/leetcode/tree/master/0917-reverse-only-letters) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Joyal-Wiz/leetcode/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Design
