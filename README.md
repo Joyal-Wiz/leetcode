@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Joyal-Wiz/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Joyal-Wiz/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joyal-Wiz/leetcode/tree/master/0069-sqrtx) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Joyal-Wiz/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Joyal-Wiz/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0088-merge-sorted-array) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Joyal-Wiz/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/Joyal-Wiz/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Joyal-Wiz/leetcode/tree/master/0566-reshape-the-matrix) |
