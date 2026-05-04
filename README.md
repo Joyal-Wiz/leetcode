@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Joyal-Wiz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Joyal-Wiz/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Joyal-Wiz/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Joyal-Wiz/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Joyal-Wiz/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Joyal-Wiz/leetcode/tree/master/0367-valid-perfect-square) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Joyal-Wiz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal-Wiz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Joyal-Wiz/leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Joyal-Wiz/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Joyal-Wiz/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Joyal-Wiz/leetcode/tree/master/0396-rotate-function) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Joyal-Wiz/leetcode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Joyal-Wiz/leetcode/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Joyal-Wiz/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Joyal-Wiz/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
