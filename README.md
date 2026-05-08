@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Joyal-Wiz/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Joyal-Wiz/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Joyal-Wiz/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2315-count-asterisks](https://github.com/Joyal-Wiz/leetcode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Joyal-Wiz/leetcode/tree/master/2325-decode-the-message) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Joyal-Wiz/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Joyal-Wiz/leetcode/tree/master/2418-sort-the-people) |
