@@ -1,0 +1,20 @@
+public class Solution {
+    public int MatchPlayersAndTrainers(int[] players, int[] trainers) {
+        Array.Sort(players);
+        Array.Sort(trainers);
+
+        int count = 0; 
+        int i=0, j=0;
+
+        while (i < players.Length && j < trainers.Length) {
+            if (players[i] <= trainers[j]) {
+                count++;
+                i++;
+                j++;
+            } else {
+                j++;
+            }
+        }
+        return count;
+    }
+}
