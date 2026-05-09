@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Joyal-Wiz/leetcode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Joyal-Wiz/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/Joyal-Wiz/leetcode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/Joyal-Wiz/leetcode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Joyal-Wiz/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Joyal-Wiz/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Joyal-Wiz/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joyal-Wiz/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Joyal-Wiz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Joyal-Wiz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
