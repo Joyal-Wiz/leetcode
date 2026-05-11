@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/Joyal-Wiz/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Joyal-Wiz/leetcode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Joyal-Wiz/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Joyal-Wiz/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2573-find-the-string-with-lcp](https://github.com/Joyal-Wiz/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2460-apply-operations-to-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Joyal-Wiz/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2739-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2739-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Joyal-Wiz/leetcode/tree/master/2751-robot-collisions) |
