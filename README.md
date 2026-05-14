@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Joyal-Wiz/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Joyal-Wiz/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/Joyal-Wiz/leetcode/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Joyal-Wiz/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Joyal-Wiz/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Joyal-Wiz/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2751-robot-collisions](https://github.com/Joyal-Wiz/leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Joyal-Wiz/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Joyal-Wiz/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Joyal-Wiz/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Joyal-Wiz/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/Joyal-Wiz/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2751-robot-collisions](https://github.com/Joyal-Wiz/leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Joyal-Wiz/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Joyal-Wiz/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Joyal-Wiz/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
