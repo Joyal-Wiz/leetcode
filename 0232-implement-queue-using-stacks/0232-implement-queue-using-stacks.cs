@@ -9,15 +9,12 @@ public class MyQueue {
     }
     
     public void Push(int x) {
-        // Move elements from outputStack to inputStack
         while(outputStack.Count > 0) {
             inputStack.Push(outputStack.Pop());
         }
         
-        // Push the new element onto inputStack
         inputStack.Push(x);
         
-        // Move elements from inputStack to outputStack
         while(inputStack.Count > 0) {
             outputStack.Push(inputStack.Pop());
         }
