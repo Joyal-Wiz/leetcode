@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Joyal-Wiz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/Joyal-Wiz/leetcode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Joyal-Wiz/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Joyal-Wiz/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Joyal-Wiz/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Joyal-Wiz/leetcode/tree/master/3838-weighted-word-mapping) |
