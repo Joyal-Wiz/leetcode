@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Joyal-Wiz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Joyal-Wiz/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Joyal-Wiz/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Joyal-Wiz/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1399-count-largest-group](https://github.com/Joyal-Wiz/leetcode/tree/master/1399-count-largest-group) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Joyal-Wiz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Joyal-Wiz/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Joyal-Wiz/leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Joyal-Wiz/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Joyal-Wiz/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Joyal-Wiz/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Joyal-Wiz/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joyal-Wiz/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Joyal-Wiz/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Joyal-Wiz/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Joyal-Wiz/leetcode/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Joyal-Wiz/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Joyal-Wiz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
